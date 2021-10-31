@@ -1,0 +1,10 @@
+1   LET    Z  5
+ 2 GOTO   7
+3 LET WEDGE   4
+ 4 PRINT WEDGE
+5 PRINT         Z
+ 6  END
+7 PRINT WEDGE
+    8     PRINT  Z
+    9 GOTO      3
+  10 .
